@@ -6,8 +6,8 @@ const chalk = require('chalk')
 
 
 //contact details
-global.onwername = "ɪᴄᴏɴɪᴄ ᴛᴇᴄʜ"
-global.onwernumber = '263716304574' 
+global.onwername = "꧁༒☬ᴅ₳Ɽ₭₱Ⱨ₳₦₮Ø₥☬༒꧂ "
+global.onwernumber = '2348059468102' 
 global.BotName = '𝐒𝐏𝐀𝐂𝐄 𝐗𝐌𝐃'
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: iconic05"
